@@ -1,0 +1,14 @@
+ipykernel
+langchain
+langchain
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pandas
+numpy
+

@@ -11,4 +11,6 @@ pypdf
 python-dotenv
 pandas
 numpy
+matplotlib
+langchain_huggingface
 
